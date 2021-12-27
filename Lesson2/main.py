@@ -1,7 +1,7 @@
 print("Now we will calculate marketing:\nPrices:"
-      "\n-----------\nTomato=8.9 NIS\nCucumbers=6.9 NIS\nCola=10 NIS\nChicken=25 NIS")
+      "\n-----------\nTomatoes=8.9 NIS\nCucumbers=6.9 NIS\nCola=10 NIS\nChicken=25 NIS")
 
-tomato = int(input("Enter how many tomato : "))
+tomato = int(input("Enter how many tomatoes : "))
 cucumbers = int(input("Enter how many cucumbers : "))
 cola = int(input("Enter how many cola : "))
 chicken = int(input("Enter how many chicken : "))
